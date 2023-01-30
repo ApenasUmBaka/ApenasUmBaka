@@ -1,7 +1,6 @@
-## Hello hello, Eu sou André Sousa - Front-End Developer 🍃
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0073CE&height=180&section=header&text=André%20Sousa%20Soares%20Da%20Silva&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=628fdb&height=180&section=header&text=André%20Sousa%20Soares%20Da%20Silva&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=628fdb&size=42&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+André;Tenho+18+anos;Eu+sou+de+São+Paulo+Capital;Sou+Desenvolvedor+Web+em+formação;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=628fdb&size=42&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+André;Tenho+18+anos;Eu+sou+de+São+Paulo+Capital;Sou+Front-end+Developer+em+formação;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 
 <div style="display: inline_block">
@@ -53,4 +52,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ApenasUmBaka}/count.svg" /></p> 
 <br></div>
  
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0073CE&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=628fdb&height=120&section=footer"/>
