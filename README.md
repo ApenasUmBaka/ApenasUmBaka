@@ -1,5 +1,5 @@
 ## Hello hello, Eu sou André Sousa - Front-End Developer 🍃
-
+<div style="display: inline_block">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ApenasUmBaka&show_icons=true&theme=tokyonight" />
 </a>
