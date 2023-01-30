@@ -48,6 +48,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ApenasUmBaka}/count.svg" /></p> 
 <br></div>
  
-<div align="center"> 
-![Snake animation](https://github.com/ApenasUmBaka/ApenasUmBaka/blob/output/github-contribution-grid-snake.svg)</div>
   
