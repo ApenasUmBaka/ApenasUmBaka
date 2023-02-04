@@ -4,11 +4,11 @@
 
 
 <div style="display: inline_block">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ApenasUmBaka&show_icons=true&theme=tokyonight" />
+<a  href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="49%" height="195px" align="center" src="https://github-readme-stats.vercel.app/api?username=ApenasUmBaka&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApenasUmBaka&layout=compact&theme=tokyonight" />
+  <img width="49%" height="195px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApenasUmBaka&layout=compact&theme=tokyonight" />
 </a> 
 </div>
 
